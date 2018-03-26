@@ -1,0 +1,2 @@
+This is a code sample for a specialist project I created. I created a synchronus chat-server client that
+sends encrypted messages using AES which are then decoded by each client. 
